@@ -1,0 +1,13 @@
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\PushNotification.exe.config
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\PushNotification.exe
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\PushNotification.pdb
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\FCM.Net.dll
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\Newtonsoft.Json.dll
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\System.Net.Http.Extensions.dll
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\System.Net.Http.Primitives.dll
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\Newtonsoft.Json.xml
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\System.Net.Http.Extensions.xml
+D:\Proj\PushNotificationSample\PushNotification\bin\Debug\System.Net.Http.Primitives.xml
+D:\Proj\PushNotificationSample\PushNotification\obj\Debug\PushNotification.exe
+D:\Proj\PushNotificationSample\PushNotification\obj\Debug\PushNotification.pdb
+D:\Proj\PushNotificationSample\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
